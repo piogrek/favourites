@@ -1,0 +1,8 @@
+alias dokcer=docker
+alias gss="git status"
+alias dr="docker restart"
+alias de="docker exec -it"
+alias dl="docker logs -f --tail=20 "
+alias dsl="docker service logs -f --tail=60 "
+alias dsls="docker service ls"
+
